@@ -1,4 +1,4 @@
-h3, h6, WalletPageLogo, .RContainer, .ms-crm-FormSection-Container .ms-crm-FormSection tr:first-child{ display:none}
+h3, h6, WalletPageLogo, .RContainer, .ms-crm-FormSection-Container .ms-crm-FormSection tr:first-child, .n-button-cancel{ display:none}
 *{ float:left; clear:none !important}
 body, .CardContainer{ background-color:transparent}
 html,
