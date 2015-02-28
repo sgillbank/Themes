@@ -7,7 +7,7 @@ To implement a custom theme, below are steps involved into the process:
 
 # Define Themes
 
-Navigate through Home > Dev Central > Themes to open below page. By clicking "Create New" button, you can add a new theme name into your account. A theme includes two parts: "custom css style" and "custom javascript". Your writing will be applied to hosted payment page. So that you can apply your own look and feel.
+Navigate through Home > Dev Central > Themes to open below page. By clicking "Create New" button, you can add a new theme name into your account. A theme includes two parts: "custom css style" and "custom javascript". Your writing will be applied to hosted payment page. So that you can apply your own look and feel. 
 
 ![themes](https://s3-us-west-1.amazonaws.com/github-screenshot-repository/v2/themes.png)
 
