@@ -11,6 +11,9 @@ Navigate through Home > Dev Central > Themes to open below page. By clicking "Cr
 
 ![themes](https://s3-us-west-1.amazonaws.com/github-screenshot-repository/v2/themes.png)
 
+Also you can choose to show/hide the related fields on hosted payment page by check/uncheck the parameters of the theme.
+![ThemeParams](https://s3-us-west-1.amazonaws.com/github-screenshot-repository/v2/ThemeParams.png)
+
 # Apply a Theme To a Device
 
 Navigate through Home > Dev Central > Devices to open below page. This is device list in your account. By clicking the icon button in column "Default Theme", an extended region will be expanded. All available themes will be listed in this region, you can assign one of them be the default theme of a device. 
