@@ -12,7 +12,7 @@ Navigate through Settings > Dev Central > Themes to open below page. By clicking
 ![themes](https://s3-us-west-1.amazonaws.com/github-screenshot-repository/v2/themes.png)
 
 Also you can choose to show/hide the related fields on hosted payment page by check/uncheck the parameters of the theme.
-![ThemeParams](https://s3-us-west-1.amazonaws.com/github-screenshot-repository/v2/ThemeParams.png)
+![ThemeParams](https://s3-us-west-1.amazonaws.com/github-screenshot-repository/v2/ThemeParams.PNG)
 
 # Apply a Theme To a Device
 
