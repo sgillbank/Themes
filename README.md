@@ -1,7 +1,7 @@
 # Summary
 For merchants wanting to integrate with PayFabric hosted payment page and hosted wallet page, there's a way to inject custom CSS code into the hosted page to fit the overall style of the 3rd party application. To implement a custom theme, you will need to get your PayFabric account ready by doing some priliminary configurations. Please go through [Quick Start](https://github.com/PayFabric/API-Samples/wiki/Quick-Start) for help getting starting with PayFabric.
 
-To implement a custom theme, below are steps involved into the process:
+Below are steps involved in the process of implementing a custom theme:
 * [Define Themes](#definetheme)
 * [Apply a Theme to a Device](#applytheme)
 
