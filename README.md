@@ -3,7 +3,7 @@ For merchants wanting to integrate with PayFabric hosted payment page and hosted
 
 To implement a custom theme, below are steps involved into the process:
 * [Define Themes](#definetheme)
-* [Apply a Theme To a Device](#applytheme)
+* [Apply a Theme to a Device](#applytheme)
 
 # Define Themes
 
