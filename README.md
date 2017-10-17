@@ -7,7 +7,7 @@ To implement a custom theme, below are steps involved into the process:
 
 # Define Themes
 
-Navigate through Settings > Dev Central > Themes to open the page below. By clicking "Create New" button you can add a new theme name into your account. A theme includes two parts: "custom CSS style" and "custom JavaScript". Those CSS and JavaScript rules affect to both hosted payment page and hosted wallet page allowing you to apply your own look and feel. 
+Navigate through Settings > Dev Central > Themes to open the page below. By clicking "Create New" button you can add a new theme name into your account. A theme includes two parts: "custom CSS style" and "custom JavaScript". Those CSS and JavaScript rules affect both hosted payment pages and hosted wallet pages allowing you to apply your own look and feel. 
 
 ![themes](https://s3-us-west-1.amazonaws.com/github-screenshot-repository/v2/themes.png)
 
